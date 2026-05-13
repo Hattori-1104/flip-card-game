@@ -1,0 +1,1 @@
+(Github Pages)[https://hattori-1104.github.io/flip-card-game/]
